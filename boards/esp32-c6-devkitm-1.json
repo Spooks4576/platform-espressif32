@@ -14,7 +14,8 @@
     "openocd_target": "esp32c6.cfg"
   },
   "frameworks": [
-    "espidf"
+    "espidf",
+    "arduino"
   ],
   "name": "Espressif ESP32-C6-DevKitM-1",
   "upload": {
